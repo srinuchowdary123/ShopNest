@@ -70,17 +70,17 @@ export const About = () => {
             <div className="flex gap-3 items-center">
               <FaUser className="fill-white" />
               <a
-                href="https://abhiportfoliyo.netlify.app/"
+                href="https://instagram.com"
                 target="_blank"
                 className="text-white"
               >
-                Porfolio
+                instagram
               </a>
             </div>
-            <a href={resume} download={resume} target="_blank">
+            <a href="https://youtube.com">
               <button className=" flex items-center text-white gap-3">
                 <IoIosDocument className="fill-white" />
-                Resume
+                Youtube
               </button>
             </a>
           </div>
