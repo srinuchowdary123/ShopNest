@@ -27,15 +27,15 @@ export const About = () => {
           <p className="flex gap-2">
             Email:{" "}
             <a
-              href="mailto:sriramoji.abhiram@gmail.com"
+              href="mailto: nachupalliishika@gmail.com"
               target="_blank"
               className="text-blue-500"
             >
-              sriramoji.abhiram@gmail.com
+               nachupalliishika@gmail.com
             </a>
           </p>
           <p className="">
-            Phone: <span className="text-blue-500">+91 8125194161</span>
+            Phone: <span className="text-blue-500">+91 8465833287</span>
           </p>
           <p>
             Address:&nbsp;
@@ -50,7 +50,7 @@ export const About = () => {
             <div className="flex gap-3 justify-center items-center">
               <FaLinkedin className="fill-white" />
               <a
-                href="http://www.linkedin.com/in/abhiramsr"
+                href="http://www.linkedin.com/"
                 target="_blank"
                 className="text-white"
               >
@@ -60,7 +60,7 @@ export const About = () => {
             <div className="flex gap-3 items-center">
               <FaGithub className="fill-white" />
               <a
-                href="https://github.com/srabhiram"
+                href="https://github.com/ishika"
                 target="_blank"
                 className="text-white"
               >
